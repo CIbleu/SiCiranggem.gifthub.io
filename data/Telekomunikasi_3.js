@@ -1,0 +1,1 @@
+var json_Telekomunikasi_3 = {"type":"FeatureCollection","name":"Telekomunikasi_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Id":0.0},"geometry":{"type":"Point","coordinates":[108.138486466812395,-6.897213077425948]}}]}
